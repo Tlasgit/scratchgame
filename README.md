@@ -1,6 +1,6 @@
-# Scratch Mini Game
+# Scratch Mini-Game
 
-Welcome to the Scratch Mini Game! This project was created as part of Harvard's CS50 Introduction to Computer Science course.
+Welcome to the Scratch Mini-Game! This project was created as part of Harvard's CS50 Introduction to Computer Science course.
 
 ## How to Play
 
